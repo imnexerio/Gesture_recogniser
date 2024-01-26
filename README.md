@@ -37,3 +37,19 @@ The project is specifically designed to recognize gestures related to custom han
 ## Contributing
 Feel free to contribute to this project! If you find issues, have suggestions for improvements, or want to add features, please open an issue or submit a pull request.
 
+
+## Make sure your data is structured in this format
+hand data_compressed/
+|-- category_1/
+|   |-- image_1.jpg
+|   |-- image_2.jpg
+|   |-- ...
+|-- category_2/
+|   |-- image_1.jpg
+|   |-- image_2.jpg
+|   |-- ...
+|-- ...
+|-- category_9/
+|   |-- image_1.jpg
+|   |-- image_2.jpg
+|   |-- ...
