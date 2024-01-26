@@ -3,7 +3,7 @@
 ## Overview
 Gesture Recognition with Mediapipe Model Maker is a project that utilizes the [Mediapipe Model Maker](https://github.com/google/mediapipe) library for training a gesture recognition model. The trained model can recognize gestures in images, and a live webcam detection script allows real-time gesture recognition through a webcam feed.
 
-The project is specifically designed to recognize gestures related to rock-paper-scissors, using a dataset of hand images in various poses corresponding to these gestures.
+The project is specifically designed to recognize gestures related to custom hand gestures, using a dataset of hand images in various poses corresponding to these gestures.
 
 ## Table of Contents
 - [Requirements](#opencv,numpy,mediapipe,mediapipe_model_maker)
